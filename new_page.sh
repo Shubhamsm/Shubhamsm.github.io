@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo $1
 mkdir _posts/$1 
 cd _posts/$1
