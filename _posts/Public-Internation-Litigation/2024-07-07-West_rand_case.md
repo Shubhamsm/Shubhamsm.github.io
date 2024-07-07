@@ -1,5 +1,8 @@
 ### West Rand Central Gold Mining Co. Ltd v The King [1905] 2 KB 391
 
+- There is no principle of international law by which, after annexation of conquered territory, the conquering state becomes liable..gold had been wrongfully seized by the British authorities..
+- The King's Bench Division ruled in favor of the **defendant (The King)**, rejecting the plaintiff's claim for compensation.
+
 #### Case Synopsis
 
 **Court**: King's Bench Division  
